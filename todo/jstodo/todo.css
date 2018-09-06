@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* body{
+    background: url("../images/01.png") no-repeat;
+} */
+li{
+    list-style: none;
+}
+.content{
+    margin-left: 50px;
+}
+li.active span{
+    color: red;
+    text-decoration:line-through;
+}
+#list .icon{
+    margin-left: 50px; 
+}
